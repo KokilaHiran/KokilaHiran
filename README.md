@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Dedicated undergraduate with a growing passion for DevOps methodologies and tools. My academic background has provided me with a solid understanding of programming languages, operating systems, and networking. I'm particularly fascinated by areas like containerization, cloud platforms and CI/CD pipelines.
+- I am dedicated undergraduate with a growing passion for DevOps methodologies and tools. My academic background has provided me with a solid understanding of programming languages, operating systems, and networking. I'm particularly fascinated by areas like containerization, cloud platforms and CI/CD pipelines.
 
 - 📫 How to reach me **priyadarshanarakh@gmail.com**
 
