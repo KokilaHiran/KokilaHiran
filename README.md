@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kokila Hiran!!!!!</h1>
-<h3 align="center">Undergraduate at UCSC</h3>
+<h3 align="center">Undergraduate @ UCSC | DevOps Enthusiast</h3>
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ExploreEase**
-
-- 🌱 I’m currently learning **java,php and js**
+Dedicated undergraduate with a growing passion for DevOps methodologies and tools. My academic background has provided me with a solid understanding of programming languages, operating systems, and networking. I'm particularly fascinated by areas like containerization, cloud platforms and CI/CD pipelines.
 
 - 📫 How to reach me **priyadarshanarakh@gmail.com**
 
